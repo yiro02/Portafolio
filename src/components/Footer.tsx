@@ -42,6 +42,7 @@ const Footer = () => {
       <div className="container px-6 mx-auto">
         <div className="max-w-6xl mx-auto">
           <div className="grid gap-8 mb-8 md:grid-cols-3">
+            
             {/* Brand */}
             <div className="space-y-4">
               <h3 className="text-3xl font-bold"> Jose Gabriel Hernandez </h3>
@@ -85,7 +86,7 @@ const Footer = () => {
             <div className="space-y-4">
               <h4 className="text-lg font-semibold">Contact</h4>
               <div className="space-y-2 text-gray-400">
-                   <a 
+                <a 
                   href="https://www.google.com/maps/place/Santo+Domingo/@18.4541852,-69.9377149,16.09z/data=!4m6!3m5!1s0x8eaf89f1107ea5ab:0xd6c587b82715c164!8m2!3d18.4626178!4d-69.9360924!16zL20vMGZ0aGw?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D"
                   className="block transition-colors duration-300 rounded-lg hover:text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-900"
                 >

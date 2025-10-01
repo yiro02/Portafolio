@@ -27,7 +27,7 @@ const About = () => {
         <div className="max-w-6xl mx-auto">
           <div className="mb-16 text-center">
             <h2 className="mb-6 text-4xl font-bold text-gray-900 md:text-5xl">
-              About Me2
+              About Me
             </h2>
             <div className="w-24 h-2 mx-auto mb-8 bg-gradient-to-r from-indigo-600 to-emerald-600"></div>
           </div>
@@ -36,7 +36,7 @@ const About = () => {
             <div>
               <div className="flex items-center justify-center w-full h-96 bg-gradient-to-br from-indigo-100 to-emerald-100 rounded-2xl">
                 <div className="flex items-center justify-center rounded-full w-100 h-80 bg-gradient-to-br from-blue-200 to-emerald-200">
-                  <img src="../images/_BC_NC_Foto.jpg" alt="BC-fotografia" className='rounded-full w-100 h-80' />
+                  <img src="/images/_BC_NC_Foto.jpg" alt="BC-fotografia" className='rounded-full w-100 h-80' />
               </div>
               </div>
             </div>
@@ -58,7 +58,7 @@ const About = () => {
               </p>
               <div className="pt-4">
                <a 
-               href="../public/Jose Gabriel Hernandez - Front-End Developer - Resume.pdf" 
+               href="/Jose Gabriel Hernandez - Front-End Developer - Resume.pdf" 
                download 
                 target="_blank"
                rel="noopener noreferrer"
