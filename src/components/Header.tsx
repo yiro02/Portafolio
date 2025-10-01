@@ -43,7 +43,7 @@ const Header = () => {
             className="px-2 py-1 text-2xl font-bold text-gray-900 transition-colors rounded-lg hover:text-indigo-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
             aria-label="Go to home section"
           >
-            AJ
+            JH
           </button>
 
           {/* Desktop Navigation */}

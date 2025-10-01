@@ -93,5 +93,4 @@ const About = () => {
     </section>
   );
 };
-
 export default React.memo(About); 
