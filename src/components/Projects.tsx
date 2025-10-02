@@ -18,17 +18,17 @@ const Projects = () => {
       description: "A collaborative project management tool with drag-and-drop functionality, team collaboration features, and progress tracking.",
       image: "https://res.cloudinary.com/dz209s6jk/image/upload/v1559829911/Challenges/cbyamvcsyhwlvnlelr5n.jpg", 
       tags:  ["React", "TypeScript", "Tailwind CSS", "API"],
-      github: "https://https://github.com/yiro02/register-intro-form.com",
+      github: "https://github.com/yiro02/register-intro-form",
       demo: "https://intro-component-with-sing-up-form-p.netlify.app/",
       featured: true
     },
 
     {
-      title: "Blog de Viajes App",
-      description: "A beautiful web-site application with interactive maps, and travel to different parts of the U.K .",
+      title:"Blog de Viajes App",
+      description:"A beautiful web-site application with interactive maps, and travel to different parts of the U.K .",
       image: "https://blogs-viajes.netlify.app/img/imagen_1.jpg",
       tags: ["HTML", "CCS"],
-      github: "https://github.com",
+      github: "https://github.com/yiro02/Blogs-de-Viaje/tree/master",
       demo: "https://blogs-viajes.netlify.app/#",
       featured: true
     },
@@ -48,19 +48,19 @@ const Projects = () => {
       description: "A comprehensive Website for social management coffe-break course, and Coffee extraction technique.",
       image: "https://user-images.githubusercontent.com/91045865/155264474-91705d12-9823-4809-8a62-ed2104c0c2eb.png",
       tags: ["HTML", "CSS" ],
-      github: "https://github.com",
+      github: "https://github.com/yiro02/Cafe-blog/tree/master",
       demo: "https://blog-coffe-0.netlify.app/",
       featured: true
     },
     {
-      title: "Learning Management System",
-      description: "An interactive learning platform with course management, progress tracking, and video streaming capabilities.",
-      image: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800",
-      tags: ["React", "Firebase", "Video.js", "Stripe"],
-      github: "https://github.com",
-      demo: "https://demo.com",
-      featured: false
-    }
+      title: "Bienes Raices",
+      description: "An interactive website for the sale of exclusive luxury homes and apartments.",
+      image: "https://github.com/yiro02/Bienes-Raices/blob/master/imagenes/blog2.jpg?raw=true",
+      tags: ["HTML", "CSS"],
+      github: "https://github.com/yiro02/Bienes-Raices",
+      demo: "https://bienes-raice.netlify.app/",
+      featured: true
+      }
   ];
 
   const featuredProjects = projects.filter(project => project.featured);
