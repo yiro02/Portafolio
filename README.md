@@ -2,7 +2,8 @@
 
 *José Gabriel Hernández*
 
-![Imagen de lapto](https://github.com/user-attachments/assets/75924d84-0304-45a9-9f57-400db8009134) <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/6a49f6e0-e985-4a4b-bdf2-de3c77076b97" />
+![Imagen de lapto](https://github.com/user-attachments/assets/75924d84-0304-45a9-9f57-400db8009134)  Never Give Up ![sonic](https://github.com/user-attachments/assets/3d3117fa-8242-43c8-8f9f-161a89b94a1c)
+
 
 - Frontend Developer • React & TypeScript
 
