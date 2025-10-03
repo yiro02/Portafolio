@@ -2,7 +2,8 @@
 
 *José Gabriel Hernández*
 
-[Laptop Image](https://github.com/user-attachments/assets/222a8839-6102-495b-bbeb-0cc3d18c5949)
+![Imagen de lapto](https://github.com/user-attachments/assets/75924d84-0304-45a9-9f57-400db8009134)
+
 
 - Frontend Developer • React & TypeScript
 
