@@ -2,12 +2,11 @@
 
 *José Gabriel Hernández*
 
-![Imagen de lapto](https://github.com/user-attachments/assets/75924d84-0304-45a9-9f57-400db8009134)
-
+![Imagen de lapto](https://github.com/user-attachments/assets/75924d84-0304-45a9-9f57-400db8009134) ![662488e2b5693f0018029131_994377816](https://github.com/user-attachments/assets/b80002a7-b2b2-4c1d-be35-075a5acb613b)
 
 - Frontend Developer • React & TypeScript
 
-- About Me
+- 💬 About Me
 
 - Hi! I'm José Gabriel Hernández, a frontend developer passionate about transforming ideas into digital experiences. I specialize in React and TypeScript, with a focus on creating clean, scalable, and user-centric interfaces.
 
