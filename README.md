@@ -1,11 +1,11 @@
  
 # Project portafilio
 
-José Gabriel Hernández
+*José Gabriel Hernández*
 
-Frontend Developer • React & TypeScript
+-Frontend Developer • React & TypeScript
 
-Acerca de mí
+#Acerca de mí
 
 ¡Hola! Soy José Gabriel Hernández, desarrollador frontend apasionado por transformar ideas en experiencias digitales. Me especializo en React y TypeScript, con un enfoque en crear interfaces limpias, escalables y centradas en el usuario.
 
@@ -13,9 +13,9 @@ Me motiva aprender constantemente nuevas tecnologías, compartir conocimiento y 
 
 Habilidades y Tecnologías
 
-Lenguajes: JavaScript (ES6+), TypeScript
+Lenguajes: JavaScript (ES6+), TypeScript, Html 
 
-Frameworks y librerías: React, React Hooks, Context API
+Frameworks y librerías: React, React Hooks,  Context API
 
 Estilos y diseño: CSS3, SASS / SCSS, Styled Components
 
@@ -26,16 +26,14 @@ Control de versiones: Git, GitHub
 Buenas prácticas: Componentización, pruebas básicas, accesibilidad, rendimiento
 
 Proyectos destacados
-
 Aquí algunos ejemplos representativos de mi trabajo (puedes ver más en mi portafolio):
+[ntro Component with Sign Up Form ]  — Este proyecto hice Formaulario para validar los inputs del fomulario si los campos estan vacio te dara un error  (Validar los inputs del formulario con una libreria zoe. estas son las tecnoligias usadas en el proyecto (React, Typescript, Talwind Ccs).
 
-[Nombre del Proyecto 1] — breve descripción (¿qué hiciste? ¿qué tecnologías usaste?)
+[Ping single column coming soon page]  — This time form was a very basic one with just one input. I know we actually don't have to send data to a server so, it was more focused on simple validation. In a future I definitely want to work with much complicated forms of sending data and validate forms in more secure way. (React, Typescript, Talwind Ccs).
 
-[Nombre del Proyecto 2] — breve descripción
+[Bienes Raices] — This a proyect of the aparments, villas and some more whit an interactive website for the sale of exclusive luxury homes and apartments.
 
-[Nombre del Proyecto 3] — breve descripción
-
-Mi enfoque de trabajo
+#Mi enfoque de trabajo
 
 Comprender a fondo el problema y los objetivos del usuario
 
@@ -52,12 +50,11 @@ Iterar y mejorar con feedback
 Estoy abierto a colaboraciones, proyectos freelance o formar parte de equipos donde pueda aportar y seguir creciendo.
 Puedes contactarme en:
 
-📧 Correo: [tu-email@example.com
-]
+📧 Correo: [yiro849@gmail..com]
 
-💼 LinkedIn: [tu perfil LinkedIn]
+💼 LinkedIn: [www.linkedin.com/in/gabriel-hernandez-morales]
 
-🐙 GitHub: [tu perfil GitHub]
+🐙 GitHub: [(https://github.com/yiro02)]
 
 ¡Gracias por visitar mi portafolio!
 ## Other Common Github Profile Sections
