@@ -1,63 +1,64 @@
+## Portafilio 
+
 *José Gabriel Hernández*
 
-![Imagen de lapto](https://github.com/user-attachments/assets/222a8839-6102-495b-bbeb-0cc3d18c5949)
-
+[Laptop Image](https://github.com/user-attachments/assets/222a8839-6102-495b-bbeb-0cc3d18c5949)
 
 - Frontend Developer • React & TypeScript
 
-- Acerca de mí
+- About Me
 
-- ¡Hola! Soy José Gabriel Hernández, desarrollador frontend apasionado por transformar ideas en experiencias digitales. Me especializo en React y TypeScript, con un enfoque en crear interfaces limpias, escalables y centradas en el usuario.
+- Hi! I'm José Gabriel Hernández, a frontend developer passionate about transforming ideas into digital experiences. I specialize in React and TypeScript, with a focus on creating clean, scalable, and user-centric interfaces.
 
-- Me motiva aprender constantemente nuevas tecnologías, compartir conocimiento y trabajar en proyectos que desafíen mis habilidades. Creo firmemente que un buen diseño y una implementación sólida pueden marcar la diferencia.
+- I'm motivated by constantly learning new technologies, sharing knowledge, and working on projects that challenge my skills. I firmly believe that good design and solid implementation can make all the difference.
 
-Habilidades y Tecnologías
+Skills and Technologies
 
-Lenguajes: JavaScript (ES6+), TypeScript, Html
+Languages: JavaScript (ES6+), TypeScript, HTML
 
-Frameworks y librerías: React, React Hooks,  Context API
+Frameworks and Libraries: React, React Hooks, Context API
 
-Estilos y diseño: CSS3, SASS / SCSS, Styled Components
+Styles and Design: CSS3, SASS / SCSS, Styled Components
 
-Herramientas de construcción: webpack, Vite
+Build Tools: Webpack, Vite
 
-Control de versiones: Git, GitHub
+Version Control: Git, GitHub
 
-Buenas prácticas: Componentización, pruebas básicas, accesibilidad, rendimiento
+Best Practices: Componentization, basic testing, accessibility, performance
 
-## Proyectos destacados
-Aquí algunos ejemplos representativos de mi trabajo (puedes ver más en mi portafolio):
-[ntro Component with Sign Up Form ]  — Este proyecto hice Formaulario para validar los inputs del fomulario si los campos estan vacio te dara un error  (Validar los inputs del formulario con una libreria zoe. estas son las tecnoligias usadas en el proyecto (React, Typescript, Talwind Ccs).
+## Featured Projects
+Here are some representative examples of my work (you can see more in my portfolio):
+[ntro Component with Sign Up Form] — This project was a form to validate form inputs. If the fields are empty, you'll get an error (Validate form inputs with a Zoe library). These are the technologies used in the project (React, Typescript, Talwind CCS).
 
-[Ping single column coming soon page]  — This time form was a very basic one with just one input. I know we actually don't have to send data to a server so, it was more focused on simple validation. In a future I definitely want to work with much complicated forms of sending data and validate forms in more secure way. (React, Typescript, Talwind Ccs).
+[Ping single column coming soon page] — This time form was a very basic one with just One input. I know we actually don't have to send data to a server, so it was more focused on simple validation. In the future, I definitely want to work with much more complicated ways of sending data and validate forms in a more secure way. (React, Typescript, Talwind CCS).
 
-[Bienes Raices] — This a proyect of the aparments, villas and some more whit an interactive website for the sale of exclusive luxury homes and apartments.
+[Real Estate] — This is a project of apartments, villas, and more with an interactive website for the sale of exclusive luxury homes and apartments.
 
-#Mi enfoque de trabajo
+#My Work Approach
 
-Comprender a fondo el problema y los objetivos del usuario
+Deeply understand the problem and the user's goals
 
-Diseñar una solución clara y modular
+Design a clear and modular solution
 
-Implementación con cuidado en la calidad del código
+Implementation with care for code quality
 
-Pruebas, correcciones y optimización de rendimiento
+Testing, fixes, and performance optimization
 
-Iterar y mejorar con feedback
+Iterate and improve with feedback
 
-¿Te gustaría trabajar conmigo?
+Would you like to work with me?
 
-Estoy abierto a colaboraciones, proyectos freelance o formar parte de equipos donde pueda aportar y seguir creciendo.
-Puedes contactarme en:
+I am open to collaborations, freelance projects, or being part of teams where I can contribute and continue to grow.
+You can contact me at:
 
-📧 Correo: [yiro849@gmail.com]
+📧 Email: [yiro849@gmail.com]
 
 💼 LinkedIn: [www.linkedin.com/in/gabriel-hernandez-morales]
 
 🐙 GitHub: [(https://github.com/yiro02)]
 
-¡Gracias por visitar mi portafolio!
-## Other Common Github Profile Sections
+Thanks for visiting my portfolio!
+##Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
 🧠 I'm currently learning...
@@ -66,11 +67,10 @@ Puedes contactarme en:
 
 🤔 I'm looking for help with...
 
-💬 Ask me about...
+💬Ask me about...
 
-📫 How to reach me...
+📫How to reach me...
 
 😄 Pronouns...
 
 ⚡️ Fun fact...
-
