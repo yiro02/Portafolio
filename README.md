@@ -3,9 +3,9 @@
 
 *José Gabriel Hernández*
 
--Frontend Developer • React & TypeScript
+- Frontend Developer • React & TypeScript
 
--Acerca de mí
+- Acerca de mí
 
 ¡Hola! Soy José Gabriel Hernández, desarrollador frontend apasionado por transformar ideas en experiencias digitales. Me especializo en React y TypeScript, con un enfoque en crear interfaces limpias, escalables y centradas en el usuario.
 
