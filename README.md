@@ -1,45 +1,65 @@
  
 # Project portafilio
 
-Hola Mi no Nombre es Jose Gabriel y este es mi portafilio Echo en React y estoy Buscando mejorar Cada dia Mas con nuevas Tecnologias y nuevas oportunidades. 
+José Gabriel Hernández
 
-## Acknowledgements
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Frontend Developer • React & TypeScript
 
+Acerca de mí
 
-#  New Activity is good, for the people who wants to learn code and who wants to improve to skills 
-## Optimizations
+¡Hola! Soy José Gabriel Hernández, desarrollador frontend apasionado por transformar ideas en experiencias digitales. Me especializo en React y TypeScript, con un enfoque en crear interfaces limpias, escalables y centradas en el usuario.
 
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+Me motiva aprender constantemente nuevas tecnologías, compartir conocimiento y trabajar en proyectos que desafíen mis habilidades. Creo firmemente que un buen diseño y una implementación sólida pueden marcar la diferencia.
 
+Habilidades y Tecnologías
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+Lenguajes: JavaScript (ES6+), TypeScript
 
+Frameworks y librerías: React, React Hooks, Context API
 
-## License
+Estilos y diseño: CSS3, SASS / SCSS, Styled Components
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Herramientas de construcción: webpack, Vite
 
+Control de versiones: Git, GitHub
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+Buenas prácticas: Componentización, pruebas básicas, accesibilidad, rendimiento
 
+Proyectos destacados
 
-## Lessons Learned
+Aquí algunos ejemplos representativos de mi trabajo (puedes ver más en mi portafolio):
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
- 
-## Badges
+[Nombre del Proyecto 1] — breve descripción (¿qué hiciste? ¿qué tecnologías usaste?)
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+[Nombre del Proyecto 2] — breve descripción
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[Nombre del Proyecto 3] — breve descripción
 
+Mi enfoque de trabajo
 
+Comprender a fondo el problema y los objetivos del usuario
+
+Diseñar una solución clara y modular
+
+Implementación con cuidado en la calidad del código
+
+Pruebas, correcciones y optimización de rendimiento
+
+Iterar y mejorar con feedback
+
+¿Te gustaría trabajar conmigo?
+
+Estoy abierto a colaboraciones, proyectos freelance o formar parte de equipos donde pueda aportar y seguir creciendo.
+Puedes contactarme en:
+
+📧 Correo: [tu-email@example.com
+]
+
+💼 LinkedIn: [tu perfil LinkedIn]
+
+🐙 GitHub: [tu perfil GitHub]
+
+¡Gracias por visitar mi portafolio!
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
